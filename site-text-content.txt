@@ -1,0 +1,1545 @@
+Inventario de texto del sitio (editable)
+Generado: 2026-03-30
+
+Archivo fuente CSV: docs/content/site-text-content.csv
+
+about.cta.bg_text
+ES: CONTÁCTANOS
+EN: CONTACT US
+
+about.cta.btn
+ES: Cotizar Proyecto
+EN: Quote Project
+
+about.cta.description
+ES: Contáctanos para una consultoría gratuita y evaluación de tu almacén.
+EN: Contact us for a free consultation and warehouse evaluation.
+
+about.cta.title
+ES: INICIA TU PROYECTO HOY
+EN: START YOUR PROJECT TODAY
+
+about.gallery.img1
+ES: Industria automotriz
+EN: Automotive industry
+
+about.gallery.img2
+ES: Industria alimentaria
+EN: Food industry
+
+about.gallery.img3
+ES: Logística
+EN: Logistics
+
+about.gallery.img4
+ES: Manufactura
+EN: Manufacturing
+
+about.gallery.img5
+ES: Farmacéutica
+EN: Pharmaceutical
+
+about.gallery.img6
+ES: Retail
+EN: Retail
+
+about.gallery.img7
+ES: Instalación
+EN: Installation
+
+about.gallery.img8
+ES: Racks industriales
+EN: Industrial racks
+
+about.hero.bg_text
+ES: NOSOTROS
+EN: ABOUT US
+
+about.hero.cta
+ES: Contáctanos
+EN: Contact Us
+
+about.hero.description
+ES: "Diseñamos
+EN:  fabricamos e instalamos soluciones de racks industriales respaldadas por experiencia técnica y de campo."
+
+about.hero.mobile_subtitle
+ES: NOSOTROS
+EN: ABOUT US
+
+about.hero.title_p1
+ES: NUESTRA VISIÓN ES
+EN: OUR VISION IS
+
+about.hero.title_p2
+ES: CONSTRUIR
+EN: TO BUILD
+
+about.hero.title_p3
+ES: TU FUTURO
+EN: YOUR FUTURE
+
+about.mission.cta
+ES: Ver Nuestros Servicios
+EN: View Our Services
+
+about.mission.p1
+ES: "Flint Racks nació de la convicción de que la eficiencia y la seguridad son la base de toda operación bien diseñada. Estamos enfocados en diseñar
+EN:  fabricar e implementar racks industriales y soluciones de almacenamiento
+
+about.mission.p2
+ES: "En un mundo donde las operaciones de las empresas dependen de su capacidad de organización
+EN:  seguridad y optimización de espacio
+
+about.mission.subtitle
+ES: Quiénes Somos
+EN: Who We Are
+
+about.mission.title
+ES: FUERZA ESTRUCTURAL QUE IMPULSA OPERACIONES
+EN: STRUCTURAL STRENGTH THAT DRIVES OPERATIONS
+
+about.values.cta_btn
+ES: Ver Servicios
+EN: View Services
+
+about.values.cta_desc
+ES: Conoce nuestros servicios y descubre cómo podemos optimizar tu operación.
+EN: Learn about our services and discover how we can optimize your operation.
+
+about.values.cta_title
+ES: TRABAJA CON NOSOTROS
+EN: WORK WITH US
+
+about.values.subtitle
+ES: Lo Que Nos Define
+EN: What Defines Us
+
+about.values.title
+ES: VALORES DE MARCA
+EN: BRAND VALUES
+
+about.values.v1_desc
+ES: "Estructuras confiables garantizadas
+EN:  construidas para durar y rendir bajo condiciones exigentes."
+
+about.values.v1_title
+ES: SOLIDEZ
+EN: SOLIDITY
+
+about.values.v2_desc
+ES: Diseño adaptado a tus necesidades operativas específicas y planes de crecimiento.
+EN: Design adapted to your specific operational needs and growth plans.
+
+about.values.v2_title
+ES: INNOVACIÓN
+EN: INNOVATION
+
+about.values.v3_desc
+ES: "Acompañamos a nuestros clientes en cada fase
+EN:  desde el diseño hasta la operación."
+
+about.values.v3_title
+ES: COMPROMISO
+EN: COMMITMENT
+
+about.values.v4_desc
+ES: "Maximizando espacio
+EN:  tiempo y productividad en cada instalación."
+
+about.values.v4_title
+ES: EFICIENCIA
+EN: EFFICIENCY
+
+about.values.v5_desc
+ES: "Cada rack protege no solo productos
+EN:  sino toda tu operación empresarial."
+
+about.values.v5_title
+ES: SEGURIDAD
+EN: SAFETY
+
+admin_blogs.author_label
+ES: Autor
+EN: Author
+
+admin_blogs.cancel
+ES: Cancelar
+EN: Cancel
+
+admin_blogs.content_label
+ES: Contenido
+EN: Content
+
+admin_blogs.create
+ES: Nueva Publicación
+EN: New Post
+
+admin_blogs.date_label
+ES: Fecha
+EN: Date
+
+admin_blogs.delete
+ES: Eliminar
+EN: Delete
+
+admin_blogs.edit
+ES: Editar
+EN: Edit
+
+admin_blogs.excerpt_label
+ES: Extracto
+EN: Excerpt
+
+admin_blogs.login
+ES: Iniciar Sesión
+EN: Login
+
+admin_blogs.logout
+ES: Cerrar Sesión
+EN: Logout
+
+admin_blogs.save
+ES: Guardar
+EN: Save
+
+admin_blogs.status_label
+ES: Estado
+EN: Status
+
+admin_blogs.title
+ES: Panel de Administración
+EN: Admin Panel
+
+admin_blogs.title_label
+ES: Título
+EN: Title
+
+blog_page.all_articles
+ES: Todos los Artículos
+EN: All Articles
+
+blog_page.back_to_blog
+ES: Volver al Blog
+EN: Back to Blog
+
+blog_page.hero.bg_text
+ES: BLOG
+EN: BLOG
+
+blog_page.hero.description
+ES: "Explora las últimas tendencias
+EN:  consejos de seguridad y mejores prácticas en sistemas de almacenamiento industrial."
+
+blog_page.hero.mobile_subtitle
+ES: BLOG
+EN: BLOG
+
+blog_page.hero.title_p1
+ES: BLOG Y
+EN: BLOG &
+
+blog_page.hero.title_p2
+ES: NOTICIAS
+EN: NEWS
+
+blog_page.latest_article
+ES: Último Artículo
+EN: Latest Article
+
+blog_page.no_posts
+ES: No se encontraron publicaciones.
+EN: No posts found.
+
+blog_page.not_found
+ES: Artículo no encontrado
+EN: Article not found
+
+blog_page.read_more
+ES: Leer Más
+EN: Read More
+
+contact.faqs.a1
+ES: "Ofrecemos una gama completa que incluye rack selectivo
+EN:  rack drive-in y drive-through
+
+contact.faqs.a2
+ES: Los tiempos de instalación varían según el alcance del proyecto. Una instalación estándar típicamente toma de 2 a 4 semanas. Ofrecemos planes de despliegue por fases para minimizar la interrupción.
+EN: Installation times vary by project scope. A standard installation typically takes 2 to 4 weeks. We offer phased deployment plans to minimize disruption.
+
+contact.faqs.a3
+ES: "Sí
+EN:  realizamos visitas técnicas de evaluación sin costo ni compromiso. Durante la visita
+
+contact.faqs.a4
+ES: Contamos con cobertura a nivel nacional. Tenemos presencia directa en los principales centros industriales del país y red de distribución que nos permite atender proyectos en cualquier estado.
+EN: We have national coverage. We have a direct presence in the main industrial centers of the country and a distribution network that allows us to serve projects in any state.
+
+contact.faqs.q1
+ES: ¿Qué tipos de sistemas de racks ofrecen?
+EN: What types of rack systems do you offer?
+
+contact.faqs.q2
+ES: ¿Cuánto tiempo toma una instalación típica?
+EN: How long does a typical installation take?
+
+contact.faqs.q3
+ES: ¿Ofrecen visitas técnicas sin costo?
+EN: Do you offer technical visits at no cost?
+
+contact.faqs.q4
+ES: ¿Tienen cobertura a nivel nacional?
+EN: Do you have national coverage?
+
+contact.faqs.title_p1
+ES: PREGUNTAS
+EN: FREQUENTLY
+
+contact.faqs.title_p2
+ES: FRECUENTES
+EN: QUESTIONS
+
+contact.form.email
+ES: Correo Electrónico
+EN: Email Address
+
+contact.form.message
+ES: Mensaje
+EN: Message
+
+contact.form.name
+ES: Tu Nombre
+EN: Your Name
+
+contact.form.phone
+ES: Teléfono
+EN: Phone
+
+contact.form.subject
+ES: Asunto
+EN: Subject
+
+contact.form.submit
+ES: Enviar
+EN: Send
+
+contact.form.success
+ES: ¡Gracias! Nos pondremos en contacto contigo pronto.
+EN: Thank you! We'll get in touch soon.
+
+contact.form.terms
+ES: Acepto los términos y condiciones
+EN: I accept the terms and conditions
+
+contact.form.terms_error
+ES: Debes aceptar los términos y condiciones.
+EN: You must accept the terms and conditions.
+
+contact.hero.bg_text
+ES: CONTACTO
+EN: CONTACT
+
+contact.hero.cta
+ES: Cotizar Ahora
+EN: Get a Quote
+
+contact.hero.description
+ES: Nuestro equipo está listo para asesorarte en tu próximo proyecto de almacenamiento.
+EN: Our team is ready to advise you on your next storage project.
+
+contact.hero.mobile_subtitle
+ES: CONTACTO
+EN: CONTACT
+
+contact.hero.title_p1
+ES: ESTAMOS 
+EN: WE ARE 
+
+contact.hero.title_p2
+ES: PARA 
+EN: HERE TO 
+
+contact.hero.title_p3
+ES: AYUDARTE
+EN: HELP
+
+contact.info.address_title
+ES: Dirección
+EN: Address
+
+contact.info.address_value
+ES: "Ejército nacional No. 700 Piso 2 Interior 201
+EN:  CDMX
+
+contact.info.contact_title
+ES: Contáctanos
+EN: Contact Us
+
+contact.info.hours_mon_fri
+ES: Lun – Vie: 9:00 – 18:00
+EN: Mon – Fri: 9:00 – 18:00
+
+contact.info.hours_sat
+ES: Sábado y domingo: Cerrado
+EN: Saturday and Sunday: Closed
+
+contact.info.hours_sun
+ES: Domingo: Cerrado
+EN: Sunday: Closed
+
+contact.info.hours_title
+ES: Horario
+EN: Hours
+
+coverage.faqs.a1
+ES: "Sí
+EN:  contamos con cobertura en las principales ciudades y zonas industriales de México. Nuestro equipo de instalación se desplaza a cualquier punto del país para garantizar un servicio profesional y oportuno."
+
+coverage.faqs.a2
+ES: "El tiempo de instalación varía según la ubicación y el tamaño del proyecto. Generalmente
+EN:  para proyectos fuera de la zona metropolitana
+
+coverage.faqs.a3
+ES: "Sí
+EN:  nuestro servicio de mantenimiento preventivo y correctivo está disponible en todas las ubicaciones donde realizamos instalaciones. Contamos con equipos regionales para atender cualquier necesidad."
+
+coverage.faqs.a4
+ES: Contamos con una red de distribuidores autorizados en las principales ciudades del país. Contáctanos para verificar la disponibilidad en tu zona y conectarte con el distribuidor más cercano.
+EN: We have a network of authorized distributors in the main cities of the country. Contact us to verify availability in your area and connect you with the nearest distributor.
+
+coverage.faqs.cta
+ES: Ver todas las preguntas
+EN: See all questions
+
+coverage.faqs.q1
+ES: ¿Realizan instalaciones en todo México?
+EN: Do you install all over Mexico?
+
+coverage.faqs.q2
+ES: ¿Cuánto tiempo tarda la instalación fuera de la zona metropolitana?
+EN: How long does installation take outside the metropolitan area?
+
+coverage.faqs.q3
+ES: ¿Ofrecen servicio de mantenimiento en todas las ubicaciones?
+EN: Do you offer maintenance service in all locations?
+
+coverage.faqs.q4
+ES: ¿Tienen distribuidores autorizados en mi ciudad?
+EN: Do you have authorized distributors in my city?
+
+coverage.faqs.title
+ES: Preguntas Frecuentes
+EN: Frequently Asked Questions
+
+coverage.hero.bg_text
+ES: COBERTURA
+EN: COVERAGE
+
+coverage.hero.cta
+ES: Solicitar Cobertura
+EN: Request Coverage
+
+coverage.hero.description
+ES: Cubrimos el 98% del territorio mexicano con puntos estratégicos en toda la República.
+EN: We cover 98% of the Mexican territory with strategic points throughout the Republic.
+
+coverage.hero.mobile_subtitle
+ES: COBERTURA
+EN: COVERAGE
+
+coverage.hero.title_p1
+ES: PRESENCIA 
+EN: NATIONAL 
+
+coverage.hero.title_p2
+ES: NACIONAL
+EN: PRESENCE
+
+coverage.hero.title_p3
+ES: "
+EN:  SERVICIO LOCAL"
+
+coverage.map.description
+ES: Explora nuestra presencia en cada estado de la República Mexicana. Posiciona el cursor sobre cualquier estado para más información.
+EN: Explore our presence in each state of Mexico. Hover over any state for more information.
+
+coverage.map.title_p1
+ES: Mapa de
+EN: Coverage
+
+coverage.map.title_p2
+ES: Cobertura
+EN: Map
+
+coverage.regions.bajio
+ES: Bajío
+EN: Bajio
+
+coverage.regions.center
+ES: Centro
+EN: Center
+
+coverage.regions.north
+ES: Norte
+EN: North
+
+coverage.regions.south
+ES: Sur
+EN: South
+
+coverage.stats.cities
+ES: Ciudades
+EN: Cities
+
+coverage.stats.desc
+ES: "Con presencia en más de 25 estados de la República Mexicana
+EN:  llevamos soluciones de almacenamiento industrial a donde tu negocio lo necesite. Nuestro equipo de especialistas garantiza instalación profesional y soporte técnico en cada región."
+
+coverage.stats.states
+ES: Estados
+EN: States
+
+coverage.stats.title
+ES: Cubrimos gran parte del país
+EN: We cover a large part of the country
+
+faq_page.categories.contact.a1
+ES: "Puedes solicitar una cotización a través de nuestro formulario de contacto en la página web
+EN:  por correo electrónico o llamando directamente a nuestras oficinas. Un asesor se pondrá en contacto contigo en menos de 24 horas hábiles."
+
+faq_page.categories.contact.a2
+ES: "Sí
+EN:  realizamos visitas técnicas de evaluación sin costo ni compromiso para proyectos dentro de nuestra zona de cobertura directa. Durante la visita
+
+faq_page.categories.contact.a3
+ES: "Nuestro horario de atención es de lunes a viernes de 8:00 a 18:00 horas. Para emergencias o proyectos en curso
+EN:  contamos con una línea de soporte técnico disponible fuera de horario regular."
+
+faq_page.categories.contact.a4
+ES: "Trabajamos con nuestros clientes para encontrar el mejor arreglo financiero para sus necesidades. Contáctanos para discutir las opciones disponibles incluyendo compra directa
+EN:  arrendamiento y planes de implementación por fases."
+
+faq_page.categories.contact.a5
+ES: "Sí
+EN:  atendemos desde pequeñas y medianas empresas hasta grandes corporativos. Nuestras soluciones son escalables y se adaptan a cualquier volumen de operación
+
+faq_page.categories.contact.q1
+ES: ¿Cómo puedo solicitar una cotización?
+EN: How can I request a quote?
+
+faq_page.categories.contact.q2
+ES: ¿Ofrecen visitas técnicas sin costo?
+EN: Do you offer technical visits at no cost?
+
+faq_page.categories.contact.q3
+ES: ¿Cuál es el horario de atención?
+EN: What are the hours of operation?
+
+faq_page.categories.contact.q4
+ES: ¿Ofrecen opciones de financiamiento o arrendamiento?
+EN: Do you offer financing or leasing options?
+
+faq_page.categories.contact.q5
+ES: ¿Trabajan con empresas de cualquier tamaño?
+EN: Do you work with companies of any size?
+
+faq_page.categories.contact.title
+ES: CONTACTO
+EN: CONTACT
+
+faq_page.categories.coverage.a1
+ES: Contamos con cobertura a nivel nacional. Tenemos presencia directa en los principales centros industriales del país y red de distribución que nos permite atender proyectos en cualquier estado de la república mexicana.
+EN: We have national coverage. We have a direct presence in the main industrial centers of the country and a distribution network that allows us to serve projects in any state of the Mexican republic.
+
+faq_page.categories.coverage.a2
+ES: "Sí
+EN:  nuestro equipo de instalación se desplaza a cualquier punto del país. Contamos con cuadrillas especializadas que pueden movilizarse para proyectos en ubicaciones remotas o fuera de las principales zonas metropolitanas."
+
+faq_page.categories.coverage.a3
+ES: Operamos desde nuestras instalaciones principales y contamos con alianzas estratégicas en diferentes regiones del país que nos permiten ofrecer tiempos de respuesta competitivos sin importar la ubicación de tu proyecto.
+EN: We operate from our main facilities and have strategic alliances in different regions of the country that allow us to offer competitive response times regardless of your project's location.
+
+faq_page.categories.coverage.a4
+ES: "Sí
+EN:  nuestros programas de mantenimiento preventivo e inspección están disponibles a nivel nacional. Coordinamos visitas periódicas con nuestros técnicos certificados para garantizar el óptimo funcionamiento de tus sistemas."
+
+faq_page.categories.coverage.a5
+ES: "Planificamos cuidadosamente la logística de cada proyecto considerando rutas de transporte
+EN:  accesos y condiciones locales. Incluimos los costos de movilización de forma transparente en nuestras cotizaciones."
+
+faq_page.categories.coverage.q1
+ES: ¿En qué estados de la república tienen cobertura?
+EN: In which states of the republic do you have coverage?
+
+faq_page.categories.coverage.q2
+ES: ¿Realizan instalaciones fuera de su zona principal?
+EN: Do you perform installations outside your main zone?
+
+faq_page.categories.coverage.q3
+ES: ¿Tienen sucursales o centros de distribución regionales?
+EN: Do you have regional branches or distribution centers?
+
+faq_page.categories.coverage.q4
+ES: ¿Ofrecen servicio de mantenimiento en todo el país?
+EN: Do you offer maintenance service nationwide?
+
+faq_page.categories.coverage.q5
+ES: ¿Cómo manejan la logística para proyectos en zonas alejadas?
+EN: How do you handle logistics for projects in remote areas?
+
+faq_page.categories.coverage.title
+ES: COBERTURA EN EL PAÍS
+EN: NATIONAL COVERAGE
+
+faq_page.categories.delivery.a1
+ES: Los tiempos de instalación varían según el alcance del proyecto. Una instalación estándar de almacén típicamente toma de 2 a 4 semanas. Ofrecemos planes de despliegue por fases para minimizar la interrupción en tus operaciones.
+EN: Installation times vary by project scope. A standard warehouse installation typically takes 2 to 4 weeks. We offer phased deployment plans to minimize disruption to your operations.
+
+faq_page.categories.delivery.a2
+ES: "Desde la consulta inicial hasta la instalación
+EN:  un proyecto típico toma de 6 a 10 semanas dependiendo de la complejidad y el alcance. Esto incluye diseño
+
+faq_page.categories.delivery.a3
+ES: "Sí
+EN:  contamos con opciones de fabricación acelerada para proyectos con plazos ajustados. Evaluamos cada caso de forma individual para determinar la viabilidad y los costos asociados a la aceleración del proyecto."
+
+faq_page.categories.delivery.a4
+ES: "Mantenemos comunicación constante sobre el avance del proyecto. En caso de imprevistos
+EN:  informamos de inmediato y presentamos un plan de contingencia para minimizar el impacto en tus operaciones y cumplir con los plazos acordados."
+
+faq_page.categories.delivery.a5
+ES: "Generalmente entregamos la cotización formal entre 3 y 5 días hábiles después de la visita técnica. Para proyectos más complejos que requieren ingeniería detallada
+EN:  el plazo puede extenderse hasta 10 días hábiles."
+
+faq_page.categories.delivery.q1
+ES: ¿Cuánto tiempo toma una instalación típica?
+EN: How long does a typical installation take?
+
+faq_page.categories.delivery.q2
+ES: ¿Cuál es el tiempo de entrega para un nuevo proyecto de racks?
+EN: What is the lead time for a new rack project?
+
+faq_page.categories.delivery.q3
+ES: ¿Pueden acelerar un proyecto urgente?
+EN: Can you accelerate an urgent project?
+
+faq_page.categories.delivery.q4
+ES: ¿Qué pasa si hay retrasos en la instalación?
+EN: What happens if there are installation delays?
+
+faq_page.categories.delivery.q5
+ES: ¿Cuánto toma recibir una cotización después de la visita técnica?
+EN: How long does it take to receive a quote after the technical visit?
+
+faq_page.categories.delivery.title
+ES: TIEMPOS DE ENTREGA
+EN: DELIVERY TIMES
+
+faq_page.categories.services.a1
+ES: "Ofrecemos una gama completa que incluye rack selectivo
+EN:  rack drive-in y drive-through
+
+faq_page.categories.services.a2
+ES: "Sí. Proporcionamos programas integrales de inspección que incluyen inspecciones anuales certificadas
+EN:  reportes de evaluación de daños
+
+faq_page.categories.services.a3
+ES: "Por supuesto. Nuestro equipo de ingeniería realiza evaluaciones exhaustivas del sitio
+EN:  considerando las condiciones del piso
+
+faq_page.categories.services.a4
+ES: "Sí. Todos nuestros sistemas están diseñados para cumplir o superar los requisitos sísmicos locales. Utilizamos cálculos estructurales y materiales certificados
+EN:  y cada instalación incluye anclaje y arriostramiento adecuados para zonas sísmicas."
+
+faq_page.categories.services.a5
+ES: "Atendemos una amplia gama de industrias incluyendo logística y distribución
+EN:  alimentos y bebidas
+
+faq_page.categories.services.q1
+ES: ¿Qué tipos de sistemas de racks ofrecen?
+EN: What types of rack systems do you offer?
+
+faq_page.categories.services.q2
+ES: ¿Proporcionan servicios de inspección de racks?
+EN: Do you provide rack inspection services?
+
+faq_page.categories.services.q3
+ES: ¿Pueden trabajar con la distribución existente de mi almacén?
+EN: Can you work with my existing warehouse layout?
+
+faq_page.categories.services.q4
+ES: ¿Sus sistemas de racks cumplen con los requisitos sísmicos?
+EN: Do your rack systems meet seismic requirements?
+
+faq_page.categories.services.q5
+ES: ¿Qué industrias atienden?
+EN: What industries do you serve?
+
+faq_page.categories.services.title
+ES: SERVICIOS
+EN: SERVICES
+
+faq_page.cta.bg_text
+ES: CONTÁCTANOS
+EN: CONTACT US
+
+faq_page.cta.btn
+ES: Cotizar Proyecto
+EN: Quote Project
+
+faq_page.cta.description
+ES: Contáctanos para una consultoría gratuita y evaluación de tu almacén.
+EN: Contact us for a free consultation and warehouse evaluation.
+
+faq_page.cta.title
+ES: INICIA TU PROYECTO HOY
+EN: START YOUR PROJECT TODAY
+
+faq_page.hero.bg_text
+ES: FAQ
+EN: FAQ
+
+faq_page.hero.cta
+ES: Contáctanos
+EN: Contact Us
+
+faq_page.hero.description
+ES: "Encuentra respuestas a las dudas más comunes sobre nuestros servicios
+EN:  instalación y soporte técnico."
+
+faq_page.hero.mobile_subtitle
+ES: FAQ
+EN: FAQ
+
+faq_page.hero.title_p1
+ES: PREGUNTAS
+EN: FREQUENTLY
+
+faq_page.hero.title_p2
+ES: FRECUENTES
+EN: ASKED QUESTIONS
+
+footer.brand_text
+ES: "Soluciones de racks industriales diseñadas
+EN:  fabricadas e instaladas con precisión. Estructura que eleva tu negocio."
+
+footer.company_about
+ES: Nosotros
+EN: About Us
+
+footer.company_blog
+ES: Blog
+EN: Blog
+
+footer.company_contact
+ES: Contacto
+EN: Contact
+
+footer.company_services
+ES: Servicios
+EN: Services
+
+footer.company_title
+ES: Empresa
+EN: Company
+
+footer.informative_title
+ES: Informativa
+EN: Informational
+
+footer.legal_title
+ES: Legales
+EN: Legal
+
+footer.link_about
+ES: Nosotros
+EN: About Us
+
+footer.link_blog
+ES: Blog
+EN: Blog
+
+footer.link_contact
+ES: Contacto
+EN: Contact
+
+footer.link_coverage
+ES: Cobertura
+EN: Coverage
+
+footer.link_custom_racks
+ES: Racks personalizados
+EN: Custom Racks
+
+footer.link_faq
+ES: FAQ
+EN: FAQ
+
+footer.link_home
+ES: Inicio
+EN: Home
+
+footer.link_predesigned_racks
+ES: Racks prefabricados
+EN: Predesigned Racks
+
+footer.link_privacy_policy
+ES: Política de Privacidad
+EN: Privacy Policy
+
+footer.link_services
+ES: Servicios
+EN: Services
+
+footer.link_terms_service
+ES: Términos de Servicio
+EN: Terms of Service
+
+footer.link_world_class_materials
+ES: Materiales de clase mundial
+EN: World-Class Materials
+
+footer.rights_reserved
+ES: Flint Racks. Todos los derechos reservados.
+EN: Flint Racks. All rights reserved.
+
+footer.services_cantilever
+ES: Rack Cantilever
+EN: Cantilever Racking
+
+footer.services_drivein
+ES: Rack Drive-In
+EN: Drive-In Racking
+
+footer.services_links_title
+ES: Servicios
+EN: Services
+
+footer.services_pushback
+ES: Sistemas Push-Back
+EN: Push-Back Systems
+
+footer.services_selective
+ES: Rack Selectivo
+EN: Selective Racking
+
+footer.services_title
+ES: Servicios
+EN: Services
+
+footer.slogan
+ES: Estructura es Poder
+EN: Structure is Power
+
+footer.studio_credit
+ES: Diseñado y desarrollado por tBE Studio
+EN: Designed and developed by tBE Studio
+
+footer.support_faq
+ES: Preguntas Frecuentes
+EN: FAQ
+
+footer.support_privacy
+ES: Política de Privacidad
+EN: Privacy Policy
+
+footer.support_terms
+ES: Términos de Servicio
+EN: Terms of Service
+
+footer.support_title
+ES: Soporte
+EN: Support
+
+home.about.cta
+ES: Conocer Más
+EN: Learn More
+
+home.about.description
+ES: "Flint Racks nació de la convicción de que la eficiencia y la seguridad son la base de toda operación bien diseñada. Estamos enfocados en diseñar
+EN:  fabricar e implementar racks industriales y soluciones de almacenamiento
+
+home.about.label
+ES: Nosotros
+EN: About Us
+
+home.about.title
+ES: SOMOS
+EN: WE ARE
+
+home.benefits.b1_desc
+ES: "Cada diseño cumple con normativas sísmicas y de seguridad
+EN:  respaldado por ingenieros certificados."
+
+home.benefits.b1_title_full
+ES: INGENIERÍA ESTRUCTURAL CERTIFICADA
+EN: CERTIFIED STRUCTURAL ENGINEERING
+
+home.benefits.b1_title_p1
+ES: INGENIERÍA ESTRUCTURAL
+EN: CERTIFIED STRUCTURAL
+
+home.benefits.b1_title_p2
+ES: CERTIFICADA
+EN: ENGINEERING
+
+home.benefits.b2_desc
+ES: Diseñamos cada proyecto según las necesidades específicas de tu industria y operación.
+EN: We design each project according to the specific needs of your industry and operation.
+
+home.benefits.b2_title_full
+ES: SOLUCIONES PERSONALIZADAS
+EN: CUSTOMIZED SOLUTIONS
+
+home.benefits.b2_title_p1
+ES: SOLUCIONES
+EN: CUSTOMIZED
+
+home.benefits.b2_title_p2
+ES: PERSONALIZADAS
+EN: SOLUTIONS
+
+home.benefits.b3_desc
+ES: Acompañamiento completo desde el diseño hasta la instalación y mantenimiento continuo.
+EN: Complete support from design and installation to continuous maintenance.
+
+home.benefits.b3_title_full
+ES: GESTIÓN INTEGRAL DE PROYECTOS
+EN: COMPREHENSIVE PROJECT MANAGEMENT
+
+home.benefits.b3_title_p1
+ES: GESTIÓN INTEGRAL
+EN: COMPREHENSIVE
+
+home.benefits.b3_title_p2
+ES: DE PROYECTOS
+EN: PROJECT MANAGEMENT
+
+home.benefits.title_p1
+ES: BENEFICIOS DE TRABAJAR
+EN: BENEFITS OF WORKING
+
+home.benefits.title_p2
+ES: CON NOSOTROS
+EN: WITH US
+
+home.blog.subtitle
+ES: Últimas Publicaciones
+EN: Latest Publications
+
+home.blog.title
+ES: DEL BLOG
+EN: FROM THE BLOG
+
+home.coverage.bg_text
+ES: COBERTURA
+EN: COVERAGE
+
+home.coverage.cta
+ES: Ver Cobertura
+EN: View Coverage
+
+home.coverage.stat1_desc
+ES: Del territorio mexicano cubierto
+EN: Of Mexican territory covered
+
+home.coverage.stat1_value
+ES: 98%
+EN: 98%
+
+home.coverage.stat2_desc
+ES: De clientes felices
+EN: Happy clients
+
+home.coverage.stat2_value
+ES: 98%
+EN: 98%
+
+home.coverage.title
+ES: Tenemos una cobertura casi total ubicada en puntos estratégicos de la república mexicana
+EN: We have almost total coverage located in strategic points of the Mexican Republic
+
+home.faq.a1
+ES: "Ofrecemos una amplia gama de racks industriales incluyendo selectivos
+EN:  drive-in
+
+home.faq.a2
+ES: "El tiempo varía según la complejidad y escala del proyecto. Un proyecto estándar puede completarse entre 4 y 8 semanas
+EN:  incluyendo diseño
+
+home.faq.a3
+ES: "Sí
+EN:  todos nuestros sistemas de racks están diseñados y fabricados cumpliendo con las normativas sísmicas vigentes. Realizamos cálculos estructurales específicos para cada proyecto considerando la zona sísmica
+
+home.faq.a4
+ES: "Sí
+EN:  contamos con programas de mantenimiento preventivo e inspección periódica. Nuestros técnicos certificados realizan revisiones programadas para detectar y corregir cualquier anomalía
+
+home.faq.a5
+ES: "Absolutamente. Nuestro equipo de ingeniería realiza un levantamiento detallado de su espacio para diseñar soluciones a medida que maximicen el aprovechamiento del área disponible
+EN:  considerando alturas
+
+home.faq.a6
+ES: "Todos nuestros racks cuentan con garantía de fabricación. Además
+EN:  proporcionamos garantía en la instalación y ofrecemos soporte técnico continuo. Los detalles específicos de garantía se definen según el tipo de producto y proyecto."
+
+home.faq.a7
+ES: "Sí
+EN:  atendemos desde pequeñas y medianas empresas hasta grandes corporativos. Nuestras soluciones son escalables y se adaptan a cualquier volumen de operación
+
+home.faq.cta
+ES: Ver Todas las Preguntas
+EN: View All Questions
+
+home.faq.q1
+ES: ¿Qué tipos de racks industriales ofrecen?
+EN: What types of industrial racks do you offer?
+
+home.faq.q2
+ES: ¿Cuánto tiempo toma un proyecto de instalación?
+EN: How long does an installation project take?
+
+home.faq.q3
+ES: ¿Sus racks cumplen con normativas sísmicas?
+EN: Do your racks comply with seismic regulations?
+
+home.faq.q4
+ES: ¿Ofrecen servicio de mantenimiento preventivo?
+EN: Do you offer preventive maintenance services?
+
+home.faq.q5
+ES: ¿Pueden adaptar racks a espacios existentes?
+EN: Can you adapt racks to existing spaces?
+
+home.faq.q6
+ES: ¿Qué garantía ofrecen en sus productos?
+EN: What warranty do you offer on your products?
+
+home.faq.q7
+ES: ¿Trabajan con empresas de cualquier tamaño?
+EN: Do you work with companies of any size?
+
+home.faq.title_p1
+ES: PREGUNTAS
+EN: FREQUENTLY ASKED
+
+home.faq.title_p2
+ES: FRECUENTES
+EN: QUESTIONS
+
+home.hero.cta
+ES: Cotizar Proyecto
+EN: Get a Quote
+
+home.hero.description
+ES: "Diseñamos
+EN:  fabricamos e instalamos soluciones de racks industriales respaldadas por experiencia técnica y de campo. Cada proyecto nace de un análisis riguroso."
+
+home.hero.title_p1
+ES: MÁS QUE
+EN: MORE THAN
+
+home.hero.title_p2
+ES: RACKS:
+EN: RACKS:
+
+home.hero.title_p3
+ES: ESTRUCTURA
+EN: STRUCTURE
+
+home.hero.title_p4
+ES: QUE ELEVA
+EN: THAT ELEVATES
+
+home.hero.title_p5
+ES: TU NEGOCIO.
+EN: YOUR BUSINESS.
+
+home.hero.trust_badge
+ES: La confianza de +500 empresas
+EN: Trusted by 500+ companies
+
+home.industries.ind1
+ES: Logística y Distribución
+EN: Logistics and Distribution
+
+home.industries.ind2
+ES: Manufactura
+EN: Manufacturing
+
+home.industries.ind3
+ES: Retail y Comercio
+EN: Retail and Commerce
+
+home.industries.ind4
+ES: Farmacéutica
+EN: Pharmaceutical
+
+home.industries.ind5
+ES: Alimentos y Bebidas
+EN: Food and Beverage
+
+home.industries.ind6
+ES: Automotriz
+EN: Automotive
+
+home.industries.title_p1
+ES: INDUSTRIAS QUE
+EN: INDUSTRIES THAT
+
+home.industries.title_p2
+ES: CONFÍAN EN NOSOTROS
+EN: TRUST US
+
+home.services.s1_desc
+ES: "Soluciones de almacenamiento listas para instalar
+EN:  diseñadas con medidas y configuraciones estándar que se adaptan a la mayoría de los espacios industriales. Ideales para optimizar tu operación de forma rápida y eficiente."
+
+home.services.s1_subtitle
+ES: Estándar
+EN: Standard
+
+home.services.s1_title
+ES: Racks Prediseñados
+EN: Pre-designed Racks
+
+home.services.s2_desc
+ES: "Diseñamos y fabricamos racks completamente adaptados a las necesidades específicas de tu operación
+EN:  espacio y tipo de carga. Cada proyecto es único
+
+home.services.s2_subtitle
+ES: A la Medida
+EN: Tailor-made
+
+home.services.s2_title
+ES: Racks Personalizados
+EN: Custom Racks
+
+home.services.subtitle
+ES: Lo Que Hacemos
+EN: What We Do
+
+home.services.title
+ES: Nuestros Servicios
+EN: Our Services
+
+home.stats.projects
+ES: Proyectos Completados
+EN: Completed Projects
+
+home.stats.satisfaction
+ES: Satisfacción del Cliente
+EN: Client Satisfaction
+
+home.stats.team
+ES: Miembros del Equipo
+EN: Team Members
+
+home.stats.years
+ES: Años de Experiencia
+EN: Years of Experience
+
+navbar.about
+ES: Nosotros
+EN: About Us
+
+navbar.blog
+ES: Blog
+EN: Blog
+
+navbar.contact
+ES: Contacto
+EN: Contact
+
+navbar.coverage
+ES: Cobertura
+EN: Coverage
+
+navbar.cta
+ES: Cotizar
+EN: Get a Quote
+
+navbar.faq
+ES: FAQ
+EN: FAQ
+
+navbar.home
+ES: Inicio
+EN: Home
+
+navbar.open_menu
+ES: Abrir menú
+EN: Open menu
+
+navbar.services
+ES: Servicios
+EN: Services
+
+not_found_page.back_home
+ES: Volver al Inicio
+EN: Back to Home
+
+not_found_page.message
+ES: ¡Oops! Página no encontrada
+EN: Oops! Page not found
+
+services.cta.bg_text
+ES: CONTÁCTANOS
+EN: CONTACT US
+
+services.cta.btn
+ES: Cotizar Proyecto
+EN: Quote Project
+
+services.cta.description
+ES: Contáctanos para una consultoría gratuita y evaluación de tu almacén.
+EN: Contact us for a free consultation and warehouse evaluation.
+
+services.cta.title
+ES: INICIA TU PROYECTO HOY
+EN: START YOUR PROJECT TODAY
+
+services.expertise.desc
+ES: "En Flint Racks trabajamos exclusivamente con los mejores manufactureros de acero a nivel internacional
+EN:  provenientes del continente asiático
+
+services.expertise.pt1_desc
+ES: Cada componente es fabricado con acero de alta resistencia proveniente de los principales manufactureros internacionales del continente asiático.
+EN: Every component is manufactured with high-strength steel from major international manufacturers in the Asian continent.
+
+services.expertise.pt1_title
+ES: Acero de Grado Industrial
+EN: Industrial Grade Steel
+
+services.expertise.pt2_desc
+ES: "Cada pieza pasa por rigurosos controles de calidad dimensional
+EN:  garantizando ensambles perfectos y estructuras seguras en cada instalación."
+
+services.expertise.pt2_title
+ES: Precisión Milimétrica
+EN: Millimeter Precision
+
+services.expertise.subtitle
+ES: Calidad Sin Compromiso
+EN: Quality Without Compromise
+
+services.expertise.title
+ES: Materiales de Clase Mundial
+EN: World-Class Materials
+
+services.hero.bg_text
+ES: SERVICIOS
+EN: SERVICES
+
+services.hero.cta
+ES: Cotizar Proyecto
+EN: Quote Project
+
+services.hero.description
+ES: "Desde rack selectivo hasta alta densidad
+EN:  diseñamos e instalamos la solución adecuada para tu operación."
+
+services.hero.mobile_subtitle
+ES: SERVICIOS
+EN: SERVICES
+
+services.hero.title_p1
+ES: SOLUCIONES
+EN: SOLUTIONS
+
+services.hero.title_p2
+ES: DISEÑADAS
+EN: DESIGNED
+
+services.hero.title_p3
+ES: PARA TI
+EN: FOR YOU
+
+services.mission.adv1_desc
+ES: Cada estructura es fabricada con materiales certificados y procesos de control de calidad rigurosos que aseguran durabilidad y rendimiento.
+EN: Every structure is manufactured with certified materials and rigorous quality control processes that ensure durability and performance.
+
+services.mission.adv1_title
+ES: Calidad Garantizada
+EN: Guaranteed Quality
+
+services.mission.adv2_desc
+ES: "Diseñamos cada proyecto según las necesidades específicas de tu operación
+EN:  espacio disponible y proyección de crecimiento."
+
+services.mission.adv2_title
+ES: Soluciones a la Medida
+EN: Tailored Solutions
+
+services.mission.adv3_desc
+ES: "Acompañamiento integral desde la consultoría inicial hasta la instalación y mantenimiento
+EN:  con un equipo de ingenieros especializados."
+
+services.mission.adv3_title
+ES: Respaldo Técnico
+EN: Technical Support
+
+services.mission.subtitle
+ES: Ventajas Que Se Reflejan
+EN: Advantages That Reflect
+
+services.mission.title
+ES: Calidad y respaldo en cada estructura que construimos
+EN: Quality and support in every structure we build
+
+services.process.steps.step1.desc
+ES: Nos acercamos a ti para conocer tus necesidades y entender cómo podemos atender los retos de tu operación.
+EN: We reach out to you to know your needs and understand how we can address your operational challenges.
+
+services.process.steps.step1.title
+ES: Primer Contacto
+EN: First Contact
+
+services.process.steps.step2.desc
+ES: "Realizamos una entrevista detallada para mapear dimensiones
+EN:  necesidades específicas y definir cómo trabajaremos juntos."
+
+services.process.steps.step2.title
+ES: Información del Cliente
+EN: Client Information
+
+services.process.steps.step3.desc
+ES: "Nuestros especialistas visitan tu bodega para evaluar necesidades de carga
+EN:  distribución y logística interna."
+
+services.process.steps.step3.title
+ES: Visita de Campo
+EN: Field Visit
+
+services.process.steps.step4.desc
+ES: "El especialista realiza un levantamiento completo
+EN:  determina materiales y costos
+
+services.process.steps.step4.title
+ES: Levantamiento y Propuesta
+EN: Assessment and Proposal
+
+services.process.steps.step5.desc
+ES: Cada bodega es diferente. Tu ejecutivo creará una planeación a la medida para cumplir con el proyecto en tiempo y forma según tu industria.
+EN: Every warehouse is different. Your executive will create a tailored plan to deliver the project on time and according to your industry.
+
+services.process.steps.step5.title
+ES: Aprobación y Planeación
+EN: Approval and Planning
+
+services.process.subtitle
+ES: Nuestro Proceso
+EN: Our Process
+
+services.process.title
+ES: DEL CONCEPTO A LA OPERACIÓN
+EN: FROM CONCEPT TO OPERATION
+
+services.products.bg_text
+ES: CASOS DE ÉXITO
+EN: SUCCESS STORIES
+
+services.products.desc
+ES: "Nuestros clientes han optimizado sus operaciones logísticas
+EN:  reducido costos y maximizándoles su capacidad de almacenamiento gracias a las soluciones que ofrecemos."
+
+services.products.title
+ES: Impacto Real en Empresas Reales
+EN: Real Impact on Real Companies
+
+services.showcase.cta
+ES: Cotizar Ahora
+EN: Quote Now
+
+services.showcase.custom_desc
+ES: "Diseñamos y fabricamos soluciones de almacenamiento únicas
+EN:  adaptadas a las dimensiones
+
+services.showcase.custom_num_desc
+ES: Esta solución es ideal para quienes buscan un diseño único adaptado a su operación
+EN: This solution is ideal for those looking for a unique design adapted to their operation
+
+services.showcase.custom_subtitle
+ES: A la Medida
+EN: Custom
+
+services.showcase.custom_title
+ES: Racks Personalizados
+EN: Custom Racks
+
+services.showcase.predefined_desc
+ES: "Sistemas de almacenamiento probados y listos para instalar
+EN:  con tiempos de entrega reducidos y máxima eficiencia operativa."
+
+services.showcase.predefined_num_desc
+ES: Esta solución es ideal para quienes necesitan rapidez de instalación y eficiencia comprobada
+EN: This solution is ideal for those who need fast installation and proven efficiency
+
+services.showcase.predefined_subtitle
+ES: Estándar
+EN: Standard
+
+services.showcase.predefined_title
+ES: Racks Prediseñados
+EN: Predesigned Racks
+
+privacy_page.sections.1.title
+ES: 1. Información que recopilamos
+EN: 
+
+privacy_page.sections.1.body
+ES: "Podemos recopilar datos de identificación y contacto (nombre
+EN:  correo electrónico
+
+privacy_page.sections.2.title
+ES: 2. Finalidad del tratamiento
+EN: 
+
+privacy_page.sections.2.body
+ES: "Utilizamos la información para atender solicitudes de contacto y cotización
+EN:  brindar soporte comercial y técnico
+
+privacy_page.sections.3.title
+ES: 3. Base legal
+EN: 
+
+privacy_page.sections.3.body
+ES: "Tratamos datos personales con base en el consentimiento del titular
+EN:  la ejecución de una relación precontractual o contractual y/o el cumplimiento de obligaciones legales
+
+privacy_page.sections.4.title
+ES: 4. Conservación de datos
+EN: 
+
+privacy_page.sections.4.body
+ES: "Los datos se conservan durante el tiempo necesario para cumplir las finalidades señaladas y los plazos legales aplicables. Una vez concluido dicho periodo
+EN:  se eliminarán o anonimizarán de forma segura."
+
+privacy_page.sections.5.title
+ES: 5. Transferencias y encargados
+EN: 
+
+privacy_page.sections.5.body
+ES: "Podemos apoyarnos en proveedores tecnológicos para alojamiento web
+EN:  analítica
+
+privacy_page.sections.6.title
+ES: 6. Derechos del titular
+EN: 
+
+privacy_page.sections.6.body
+ES: "Puedes solicitar acceso
+EN:  rectificación
+
+privacy_page.sections.7.title
+ES: 7. Cookies y tecnologías similares
+EN: 
+
+privacy_page.sections.7.body
+ES: "Este sitio puede utilizar cookies para funciones de navegación
+EN:  análisis y mejora de rendimiento. Puedes administrar su uso desde la configuración de tu navegador."
+
+privacy_page.sections.8.title
+ES: 8. Seguridad
+EN: 
+
+privacy_page.sections.8.body
+ES: "Implementamos medidas técnicas
+EN:  administrativas y organizativas razonables para proteger la información contra acceso no autorizado
+
+privacy_page.sections.9.title
+ES: 9. Cambios a esta política
+EN: 
+
+privacy_page.sections.9.body
+ES: Nos reservamos el derecho de actualizar este aviso en cualquier momento. La versión vigente será publicada en esta misma página con su fecha de actualización.
+EN: 
+
+privacy_page.sections.10.title
+ES: 10. Contacto
+EN: 
+
+privacy_page.sections.10.body
+ES: "Si tienes dudas sobre esta Política de Privacidad
+EN:  puedes escribirnos a contacto@flintracks.com."
+
+terms_page.sections.1.title
+ES: 1. Aceptación de los términos
+EN: 
+
+terms_page.sections.1.body
+ES: "Al acceder y utilizar este sitio web
+EN:  aceptas estos Términos de Servicio. Si no estás de acuerdo con ellos
+
+terms_page.sections.2.title
+ES: 2. Objeto del sitio
+EN: 
+
+terms_page.sections.2.body
+ES: "El sitio tiene fines informativos y comerciales respecto a soluciones de almacenamiento industrial
+EN:  racks y servicios asociados ofrecidos por Flint Racks."
+
+terms_page.sections.3.title
+ES: 3. Uso permitido
+EN: 
+
+terms_page.sections.3.body
+ES: "El usuario se compromete a utilizar el sitio de forma lícita
+EN:  sin afectar su funcionamiento
+
+terms_page.sections.4.title
+ES: 4. Propiedad intelectual
+EN: 
+
+terms_page.sections.4.body
+ES: "Los contenidos del sitio (textos
+EN:  marcas
+
+terms_page.sections.5.title
+ES: 5. Cotizaciones y propuestas
+EN: 
+
+terms_page.sections.5.body
+ES: "La información publicada no constituye una oferta vinculante. Las cotizaciones
+EN:  tiempos
+
+terms_page.sections.6.title
+ES: 6. Limitación de responsabilidad
+EN: 
+
+terms_page.sections.6.body
+ES: "Flint Racks no será responsable por daños indirectos
+EN:  incidentales o consecuenciales derivados del uso o imposibilidad de uso del sitio
+
+terms_page.sections.7.title
+ES: 7. Enlaces a terceros
+EN: 
+
+terms_page.sections.7.body
+ES: "El sitio puede incluir enlaces externos. Flint Racks no controla ni garantiza el contenido
+EN:  disponibilidad o políticas de dichos sitios de terceros."
+
+terms_page.sections.8.title
+ES: 8. Modificaciones
+EN: 
+
+terms_page.sections.8.body
+ES: Podemos actualizar estos términos en cualquier momento. La versión vigente se publicará en esta página e indicará la fecha de última actualización.
+EN: 
+
+terms_page.sections.9.title
+ES: 9. Legislación aplicable
+EN: 
+
+terms_page.sections.9.body
+ES: Estos términos se rigen por la legislación aplicable en México. Cualquier controversia será resuelta por las autoridades competentes conforme a derecho.
+EN: 
+
+terms_page.sections.10.title
+ES: 10. Contacto
+EN: 
+
+terms_page.sections.10.body
+ES: "Para dudas sobre estos Términos de Servicio
+EN:  escríbenos a contacto@flintracks.com."
+
