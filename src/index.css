@@ -1,0 +1,236 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* NewBlack Typeface — Headlines / Titulares */
+@font-face {
+  font-family: 'NewBlack';
+  src: url('/fonts/NewBlackTypeface-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NewBlack';
+  src: url('/fonts/NewBlackTypeface-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NewBlack';
+  src: url('/fonts/NewBlackTypeface-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NewBlack';
+  src: url('/fonts/NewBlackTypeface-ExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Aloevera Display — Body & Communication Font */
+@font-face {
+  font-family: 'Aloevera Display';
+  src: url('/fonts/AloeveraDisplay-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Aloevera Display';
+  src: url('/fonts/AloeveraDisplay-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Aloevera Display';
+  src: url('/fonts/AloeveraDisplay-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Aloevera Display';
+  src: url('/fonts/AloeveraDisplay-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Aloevera Display';
+  src: url('/fonts/AloeveraDisplay-ExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Aloevera Display';
+  src: url('/fonts/AloeveraDisplay-Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  :root {
+    /* Flint Racks Brand Colors */
+    --background: 0 0% 97%;
+    --foreground: 0 0% 5%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 5%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 5%;
+
+    /* Forge Red */
+    --primary: 0 87% 62%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Sand Beige */
+    --secondary: 37 35% 75%;
+    --secondary-foreground: 0 0% 5%;
+
+    /* Metallic Gray */
+    --muted: 214 15% 92%;
+    --muted-foreground: 214 15% 40%;
+
+    /* Sand Beige lighter */
+    --accent: 37 35% 92%;
+    --accent-foreground: 0 0% 5%;
+
+    /* Average Red */
+    --destructive: 356 69% 52%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 214 15% 85%;
+    --input: 214 15% 85%;
+    --ring: 0 87% 62%;
+
+    --radius: 0.25rem;
+
+    /* Iron Black for dark surfaces */
+    --iron: 0 0% 5%;
+    --iron-foreground: 0 0% 100%;
+
+    /* Forge Red */
+    --forge: 0 87% 62%;
+    --forge-foreground: 0 0% 100%;
+
+    /* Sand Beige */
+    --sand: 37 35% 75%;
+    --sand-foreground: 0 0% 5%;
+
+    /* Metallic Gray */
+    --metallic: 214 15% 70%;
+    --metallic-foreground: 0 0% 5%;
+
+    /* Average Red */
+    --red-deep: 356 69% 52%;
+    --red-deep-foreground: 0 0% 100%;
+
+    --sidebar-background: 0 0% 5%;
+    --sidebar-foreground: 0 0% 95%;
+    --sidebar-primary: 0 87% 62%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 0 0% 12%;
+    --sidebar-accent-foreground: 0 0% 95%;
+    --sidebar-border: 0 0% 15%;
+    --sidebar-ring: 0 87% 62%;
+  }
+
+  .dark {
+    --background: 0 0% 5%;
+    --foreground: 0 0% 95%;
+    --card: 0 0% 8%;
+    --card-foreground: 0 0% 95%;
+    --popover: 0 0% 8%;
+    --popover-foreground: 0 0% 95%;
+    --primary: 0 87% 62%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 37 35% 30%;
+    --secondary-foreground: 0 0% 95%;
+    --muted: 0 0% 15%;
+    --muted-foreground: 214 15% 65%;
+    --accent: 0 0% 15%;
+    --accent-foreground: 0 0% 95%;
+    --destructive: 356 69% 52%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 0 0% 18%;
+    --input: 0 0% 18%;
+    --ring: 0 87% 62%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-body antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+@layer components {
+  .section-padding {
+    @apply px-4 sm:px-6 lg:px-8 xl:px-16;
+  }
+
+  .container-brand {
+    @apply max-w-[1400px] mx-auto w-full;
+  }
+}
+
+@layer utilities {
+  /* Marquee animation */
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  .animate-marquee {
+    animation: marquee 30s linear infinite;
+  }
+
+  /* Fade in up */
+  @keyframes fade-in-up {
+    0% {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animate-fade-in-up {
+    animation: fade-in-up 0.6s ease-out forwards;
+  }
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
